@@ -1,0 +1,38 @@
+{
+  "name": "vma-cli",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "serve:pre": "vue-cli-service serve --mode pre",
+    "serve:prod": "vue-cli-service serve --mode prod",
+    "build": "vue-cli-service build",
+    "build:dev": "vue-cli-service build --mode dev",
+    "build:pre": "vue-cli-service build --mode pre"
+  },
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "ant-design-vue": "^1.4.0-beta.0",
+    "axios": "^0.18.0",
+    "core-js": "^2.6.5",
+    "element-ui": "^2.7.2",
+    "fastclick": "^1.0.6",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "mescroll.js": "^1.4.1",
+    "postcss-pxtorem": "^4.0.1",
+    "postcss-write-svg": "^3.0.1",
+    "vant": "^2.2.4",
+    "vue": "^2.6.6",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.5.0",
+    "@vue/cli-service": "^3.5.0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "qs": "^6.7.0",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
