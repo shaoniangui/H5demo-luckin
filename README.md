@@ -6,3 +6,9 @@
 - 使用 rem 作为移动端适配方案
 - 使用 postcss-pxtorem 插件自动转换
 - 使用 mescroll.js 开发上拉加载/下拉刷新
+# 界面截图
+![首页](./screenshots/1.png)
+![菜单](./screenshots/2.png)
+![订单](./screenshots/3.png)
+![购物车](./screenshots/4.png)
+![我的](./screenshots/5.png)
